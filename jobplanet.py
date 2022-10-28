@@ -6,9 +6,9 @@ import time
 import pandas as pd
 
 # step2.로그인 정보 및 검색할 회사 미리 정의, 해당 회사의 리뷰 끝 페이지도 정의
-usr = "ahwlrhal@naver.com"
-pwd = "ks090909!"
-query = "그린랩스"
+usr = "id"
+pwd = "password"
+query = "company you want to search"
 page = 11
 
 
